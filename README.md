@@ -1,2 +1,1 @@
-# TODO-LIST
-Created with CodeSandbox
+## Just another todo App!
